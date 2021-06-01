@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @delarune-the-failure
+- I’m interested in finishing this readme
+- I’m currently learning c++
+- I’m not looking to collaborate on anything
+- Don't reach me
